@@ -13,7 +13,7 @@ function Logo() {
     <motion.div
       initial={{ opacity: 0, y: 10 }}
       animate={{ opacity: 1, y: 0 }}
-      transition={{ duration: 1.6, delay: 0.8, ease: [0.16, 1, 0.3, 1] }}
+      transition={{ duration: 1.0, delay: 0.3, ease: [0.16, 1, 0.3, 1] }}
       style={{
         width: '100%',
         maxWidth: 'clamp(220px, 24vw, 380px)',
