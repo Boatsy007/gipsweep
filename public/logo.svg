@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" fill="none">
+  <circle cx="260" cy="190" r="130" stroke="#e06000" stroke-width="22" stroke-dasharray="680 100"/>
+  <text x="250" y="230" font-family="Arial Black, sans-serif" font-size="130" font-weight="900" font-style="italic" fill="#e06000" text-anchor="middle">GESC</text>
+  <text x="250" y="310" font-family="Arial, sans-serif" font-size="40" font-weight="800" fill="#e06000" text-anchor="middle" letter-spacing="4">GIPPSLAND</text>
+  <text x="250" y="355" font-family="Arial, sans-serif" font-size="24" font-weight="600" fill="#e06000" text-anchor="middle" letter-spacing="8">ENVIRONMENTAL</text>
+  <line x1="90" y1="390" x2="170" y2="390" stroke="#e06000" stroke-width="2"/>
+  <text x="250" y="400" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#e06000" text-anchor="middle" letter-spacing="6">SWEEPING COMPANY</text>
+  <line x1="330" y1="390" x2="410" y2="390" stroke="#e06000" stroke-width="2"/>
+</svg>
